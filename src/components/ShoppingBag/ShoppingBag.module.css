@@ -1,0 +1,19 @@
+.List {
+  list-style: none;
+  padding-left: 0;
+}
+
+.List img {
+  height: 70px;
+  width: 60px;
+}
+
+.removeButton {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.removeButton:focus {
+  outline: none;
+}
